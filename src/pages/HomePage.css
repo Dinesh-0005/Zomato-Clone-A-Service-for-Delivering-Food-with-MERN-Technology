@@ -1,0 +1,49 @@
+.homepage-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .header h1 {
+    color: #f36f6f; /* Zomato-like color */
+  }
+  
+  .restaurant-list {
+    margin-top: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .restaurant-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .restaurant-card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .restaurant-card h4 {
+    margin-top: 10px;
+    font-size: 1.2em;
+  }
+  
+  .restaurant-card p {
+    margin: 5px 0;
+  }

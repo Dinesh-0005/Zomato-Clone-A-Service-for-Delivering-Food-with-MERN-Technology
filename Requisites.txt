@@ -1,0 +1,22 @@
+frontend
+ 
+Vite method
+ 
+1)	Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+2)	npm create vite
+
+3)	create folder make default (vite-project)
+
+4)	Select React
+
+5)	Select JavaScrip
+
+6)	cd vite-project
+
+7)	npm install
+
+8)	npm run dev
+
+npm install axios react-router-dom
+ 
